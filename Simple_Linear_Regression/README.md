@@ -9,9 +9,7 @@ This repository contains a Simple Linear Regression model that predicts salaries
 - [Usage](#usage)
 - [Model Training](#model-training)
 - [Results](#results)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-
+- 
 ## Project Overview
 This project demonstrates how to apply **Simple Linear Regression** to predict salaries based on experience. The model is trained on a dataset containing salary information and visualized using Matplotlib.
 
@@ -70,16 +68,7 @@ print(regressor.coef_)   # Slope (theta1)
 print(regressor.intercept_)  # Intercept (theta0)
 ```
 
-## Future Improvements
-- Add more features for better prediction (e.g., education level, industry, location).
-- Use **Polynomial Regression** for non-linear patterns.
-- Optimize hyperparameters using **GridSearchCV**.
-- Deploy the model using **Flask/Django API**.
-
-## Contributing
-Feel free to fork this repository, improve the model, and submit a pull request. Suggestions and contributions are welcome!
-
 ### Author
-**Your Name**  
-GitHub: [YourUsername](https://github.com/YourUsername)
+**Preksha Barjatya**  
+GitHub: https://github.com/Prekshabarjatya
 

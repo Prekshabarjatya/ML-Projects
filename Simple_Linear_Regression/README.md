@@ -9,7 +9,7 @@ This repository contains a Simple Linear Regression model that predicts salaries
 - [Usage](#usage)
 - [Model Training](#model-training)
 - [Results](#results)
-- 
+
 ## Project Overview
 This project demonstrates how to apply **Simple Linear Regression** to predict salaries based on experience. The model is trained on a dataset containing salary information and visualized using Matplotlib.
 
